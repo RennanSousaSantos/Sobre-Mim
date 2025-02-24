@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-    <link rel="icon" type="image/png" href="https://media.discordapp.net/attachments/1321567813839622256/1337193735254970470/Sem_Titulo-1.png?ex=67b11a36&is=67afc8b6&hm=20b981623b16d4ebe62fb83a2012c057744a16e3a98dee1acd726bf424033d2e&=&format=webp&quality=lossless" width="500">
+    <img src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif" width="500">
 </div>
+
 
 
 # About-Me 
