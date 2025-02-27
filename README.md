@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fkali-linux--green&psig=AOvVaw06CERgRGqmZTc4qinubw0T&ust=1740742449461000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDT1Y3h44sDFQAAAAAdAAAAABAE" width="500">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F303350%2Fdistributor-logo-kali-linux&psig=AOvVaw06CERgRGqmZTc4qinubw0T&ust=1740742449461000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDT1Y3h44sDFQAAAAAdAAAAABAI" width="500">
 </div>
 
 <h1 align="center">Ryan | Desenvolvedor Back End </h1>
