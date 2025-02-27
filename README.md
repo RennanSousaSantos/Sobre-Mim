@@ -14,9 +14,9 @@ Estudante de programação, cursando análise e desenolvimento de sistemas na in
 Minha missão é transformar processos manuais em soluções eficientes e diretas!
 
 [![Bluesky](https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=green)](https://bsky.app/profile/ryankali.bsky.social) 
-[![Instagram](https://img.shields.io/badge/Instagram-%000000.svg?logo=Instagram&logoColor=green)](https://instagram.com/ryanrodriguexs) 
-[![Discord](https://img.shields.io/badge/Discord-%000000.svg?logo=discord&logoColor=green)](https://discord.gg/gibrasil) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%000000.svg?logo=Pinterest&logoColor=green)](https://pinterest.com/ryangame2005) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=green)](https://instagram.com/ryanrodriguexs) 
+[![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=green)](https://discord.gg/gibrasil) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?logo=Pinterest&logoColor=green)](https://pinterest.com/ryangame2005) 
 
 ## Contato:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=black)](mailto:yryurodriguess@gmail.com)
