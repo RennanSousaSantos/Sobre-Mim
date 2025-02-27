@@ -17,7 +17,7 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
 [![Twitch](https://img.shields.io/badge/Twitch-000000.svg?logo=Twitch&logoColor=00FF7F)](https://twitch.tv/ryan_osamu) 
 
 ## Contato:
-<p align="center">
+<p align="static">
     <a href="mailto:yryurodriguess@gmail.com">
         <img src="https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F" alt="Email"/>
     </a>
