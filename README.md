@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="500">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fkali-linux--green&psig=AOvVaw06CERgRGqmZTc4qinubw0T&ust=1740742449461000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDT1Y3h44sDFQAAAAAdAAAAABAE" width="500">
 </div>
 
 <h1 align="center">Ryan | Desenvolvedor Back End </h1>
@@ -21,7 +21,7 @@ Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e seguran�
 ## 🚀 O que estou desenvolvendo?  
 🔹 **Bot para Discord** inspirado no Kali Linux, com **gestão de cargos, moderação fantasma, sistema de pontuação e logs automatizados**.  
 🔹 **Integração de APIs**, como **Salesforce e Genesys**, para consolidação de dados e relatórios diários.  
-🔹 **Automação de processos** usando **Python, Katalon Recorder e Magical** para otimizar fluxos de trabalho.  
+🔹 **Automação de processos** usando **Python, Magical** para otimizar fluxos de trabalho.  
 
 ---
 
@@ -42,7 +42,7 @@ Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e seguran�
 
 ---
 
-## 💬 Posso te ajudar com:
+## 💬 Posso te ajudar com:  
 🔹 Desenvolvimento de **bots para Discord** e automação.  
 🔹 Integração de APIs para otimizar processos.  
 🔹 Desenvolvimento **full stack** com Node.js e React.  
@@ -61,15 +61,9 @@ Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e seguran�
 ---
 
 ## 🛠️ Tecnologias:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,python,nodejs,react,git,aws,html,css,mysql,postgresql,mongodb" />
+</p>
 
 ---
 
@@ -78,6 +72,9 @@ Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e seguran�
     <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=0d1117&stroke=00d4ff&ring=0effa3&fire=00d4ff" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanditko&theme=dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryanditko&theme=dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryanditko&theme=dark" />
 </div>
 
 ---
