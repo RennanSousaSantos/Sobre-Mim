@@ -34,12 +34,11 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
 ## Estatísticas do GitHub:
 <div align="center">
     <!-- Estatísticas Gerais -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=0effa3&text_color=00d4ff&hide=contribs" height="165"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=00FF7F&title_color=0effa3&text_color=00FF7F&hide=contribs" height="165"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=00FF7F&title_color=00FF7F&text_color=FFFFFF" height="165"/>
 </div>
 
 <div align="center">
-    <!-- Sequência de Contribuições -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=0d1117&stroke=00d4ff&ring=0effa3&fire=00d4ff" />
 </div>
 
