@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F802696333568371571%2F&psig=AOvVaw0oM0q7xcRMch6wFWslt91Z&ust=1740744278122000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPi6v_Xn44sDFQAAAAAdAAAAABAE" width="500">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fkillua-hunter-x-hunter-gif-killua-hunter-x-hunter-power-discover-share-gifs--750482725410955121%2F&psig=AOvVaw0NpWiHESp5XhMCWyo7wLDb&ust=1740744859905000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCs4ozq44sDFQAAAAAdAAAAABAi" width="500">
 </div>
 
 <h1 align="center">Ryan | Desenvolvedor Back End </h1>
