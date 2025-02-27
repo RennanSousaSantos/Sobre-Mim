@@ -1,21 +1,22 @@
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Ffametsuri%2Fart%2FArch-Ascii-art-593307488&psig=AOvVaw3AyRrhfC_9tGTFGD9VUX5w&ust=1740748076355000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjmson244sDFQAAAAAdAAAAABAa" width="500" alt="Arch Linux gif">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw3EFuOiCLSeOtzRyr_lJwkx&ust=1740749981466000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjL0aP-44sDFQAAAAAdAAAAABAR" width="500" alt="Introdução">
 </div>
 
-<h1 align="center">Ryan | Desenvolvedor Back End</h1>
+<h1 align="center">Ryan Rodrigues </h1>
 
 <p align="center">
     <b>Automação • Segurança Digital • Bots • APIs</b><br>
     Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar processos.
 </p>
 
-Desenvolvedor apaixonado por tecnologia, automação e segurança digital. Minha missão é transformar processos manuais em soluções eficientes e diretas onde minha principal aréa de atuação nesse momento é de desenvolvimento back end. 
+Desenvolvedor apaixonado por tecnologia, automação e segurança digital. 
+Estudante de programação, cursando análise e desenolvimento de sistemas na instituição IMPACTA TECNOLOGIA. 
+Minha missão é transformar processos manuais em soluções eficientes e diretas!
 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=black)](https://bsky.app/profile/ryankali.bsky.social) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/ryanrodriguexs) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](https://discord.gg/gibrasil) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=black)](https://pinterest.com/ryangame2005) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=black)](https://twitch.tv/ryan_osamu) 
+[![Bluesky](https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=green)](https://bsky.app/profile/ryankali.bsky.social) 
+[![Instagram](https://img.shields.io/badge/Instagram-%000000.svg?logo=Instagram&logoColor=green)](https://instagram.com/ryanrodriguexs) 
+[![Discord](https://img.shields.io/badge/Discord-%000000.svg?logo=discord&logoColor=green)](https://discord.gg/gibrasil) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%000000.svg?logo=Pinterest&logoColor=green)](https://pinterest.com/ryangame2005) 
 
 ## Contato:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=black)](mailto:yryurodriguess@gmail.com)
@@ -23,7 +24,7 @@ Desenvolvedor apaixonado por tecnologia, automação e segurança digital. Minha
 
 ## Tecnlogias que utilizo e estou aprendendo:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,git,bootstrap,aws,mysql," />
+    <img src="https://skillicons.dev/icons?i=vscode,python,js,nodejs,react,html,css,git,github,bootstrap,aws,mysql," />
 </p>
 
 
@@ -33,6 +34,6 @@ Desenvolvedor apaixonado por tecnologia, automação e segurança digital. Minha
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00d4ff&ring=0effa3&fire=00d4ff" />
 </div>
 
-🎯 **Se você compartilha interesses semelhantes, vamos trocar ideias!** 🚀  
+ **Se você compartilha interesses semelhantes, vamos trocar ideias!** 📗
 
 [![](https://visitcount.itsvg.in/api?id=Ryanditko&icon=0&color=0)](https://visitcount.itsvg.in)
