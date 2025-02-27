@@ -2,8 +2,8 @@
     <img src="https://imgur.com/SZc0iiK.png" width="500" alt="Kali_logo">
 </div>
 
-# Ryan Rodrigues
-**Automação • Segurança Digital • Bots • APIs**  
+<h1 style="font-size: 2.5em; color: #FF00F6; text-align: center;">Ryan Rodrigues </h1>
+<h2> **Automação • Segurança Digital • Bots • APIs**  </h2>
 Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar processos.  
 
 💻 Desenvolvedor apaixonado por tecnologia, automação e segurança digital.  
@@ -35,10 +35,9 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
 ## Estatísticas do GitHub:
 <div align="center">
     <!-- Estatísticas Gerais -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=0effa3&text_color=FFFFFF&hide=contribs" height="165"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=00FF7F&text_color=FFFFFF" height="165"/>
-</div>
-
+   | ![Ryanditko 's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryanditko&show_icons=true&theme=jolly&hide_border=false&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6) | ![Ryanditko 's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryanditko&layout=compact&theme=jolly&hide_border=false&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6) |
+| --- | --- |
+    
  <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
