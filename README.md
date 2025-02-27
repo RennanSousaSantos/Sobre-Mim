@@ -4,7 +4,7 @@
 
 <h1 style="font-size: 2.5em; color: #FF00F6; text-align: center;">Ryan Rodrigues </h1>
 
-Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar processos.  
+Minha missão é trazer soluções inteligentes, otimizar fluxos, gerenciar e automatizar processos.  
 💻 Desenvolvedor apaixonado por tecnologia, automação e segurança digital.  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **IMPACTA TECNOLOGIA**.  
 🚀 Transformando processos manuais em soluções eficientes e diretas!  
