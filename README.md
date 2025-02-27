@@ -1,19 +1,18 @@
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F303350%2Fdistributor-logo-kali-linux&psig=AOvVaw06CERgRGqmZTc4qinubw0T&ust=1740742449461000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDT1Y3h44sDFQAAAAAdAAAAABAI" width="500">
+    <img src="https://media.discordapp.net/attachments/1321567813839622256/1337193735254970470/Sem_Titulo-1.png?ex=67b11a36&is=67afc8b6&hm=20b981623b16d4ebe62fb83a2012c057744a16e3a98dee1acd726bf424033d2e&=&format=webp&quality=lossless" width="500">
 </div>
 
 <h1 align="center">Ryan | Desenvolvedor Back End </h1>
 
 <p align="center">
-    <b>Automação • Segurança Digital • Bots para Discord • APIs</b><br>
+    <b>Automação • Segurança Digital • Bots • APIs</b><br>
     Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar processos.
 </p>
 
 ---
 
 ## 👾 Sobre Mim  
-Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e segurança digital. Minha missão é transformar processos manuais em soluções eficientes, seja criando **bots avançados para Discord**, integrando **APIs** ou desenvolvendo **scripts de automação**.  
-
+Sou **Ryan**, tenho 19 anos e sou um desenvolvedor apaixonado por tecnologia, automação e segurança digital. Minha missão é transformar processos manuais em soluções eficientes e diretas.
 💡 Gosto de explorar novas tecnologias e otimizar soluções para tornar cada projeto mais poderoso e funcional.
 
 ---
@@ -21,7 +20,7 @@ Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e seguran�
 ## 🚀 O que estou desenvolvendo?  
 🔹 **Bot para Discord** inspirado no Kali Linux, com **gestão de cargos, moderação fantasma, sistema de pontuação e logs automatizados**.  
 🔹 **Integração de APIs**, como **Salesforce e Genesys**, para consolidação de dados e relatórios diários.  
-🔹 **Automação de processos** usando **Python, Magical** para otimizar fluxos de trabalho.  
+🔹 **Automação de processos** usando **Python, Magical google extension** para otimizar fluxos de trabalho.  
 
 ---
 
@@ -42,15 +41,7 @@ Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e seguran�
 
 ---
 
-## 💬 Posso te ajudar com:  
-🔹 Desenvolvimento de **bots para Discord** e automação.  
-🔹 Integração de APIs para otimizar processos.  
-🔹 Desenvolvimento **full stack** com Node.js e React.  
-🔹 Automação de tarefas repetitivas usando **Python e Magical Google Extension**.  
-
----
-
-## 🌐 Onde me encontrar:
+## 🌐 Redes Sociais:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ryankali.bsky.social) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/819954175173328906) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanrodriguexs) 
@@ -60,9 +51,9 @@ Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e seguran�
 
 ---
 
-## 🛠️ Tecnologias:
+## 🛠️ Stacks:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,python,nodejs,react,git,aws,html,css,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,html,css,git,aws,mysql,postgresql,mongodb" />
 </p>
 
 ---
@@ -71,10 +62,6 @@ Sou **Ryan**, um desenvolvedor apaixonado por tecnologia, automação e seguran�
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=0d1117&stroke=00d4ff&ring=0effa3&fire=00d4ff" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanditko&theme=dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryanditko&theme=dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryanditko&theme=dark" />
 </div>
 
 ---
