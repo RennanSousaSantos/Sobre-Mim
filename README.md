@@ -2,8 +2,11 @@
     <img src="https://i.imgur.com/swaitFI.png" width="500" alt="Introdução">
 </div>
 
-# Ryan Rodrigues | Back End  
-**Automação • Segurança Digital • Bots • APIs**  
+# Ryan Rodrigues | Back End 
+<div align="center">
+    <img src="https://i.imgur.com/swaitFI.png" width="500" alt="Introdução">
+</div>
+**Automação • Segurança Digital • Bots • APIs** 
 Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar processos.  
 
 💻 Desenvolvedor apaixonado por tecnologia, automação e segurança digital.  
@@ -33,7 +36,8 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
 
 ## Estatísticas do GitHub:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" /> 
+    <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_title=true)" /> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=0d1117&stroke=00d4ff&ring=0effa3&fire=00d4ff" />
 </div>
 
