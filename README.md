@@ -12,7 +12,7 @@
 ---
 
 ## 👾 Sobre Mim  
-Sou **Ryan**, tenho 19 anos e sou um desenvolvedor apaixonado por tecnologia, automação e segurança digital. Minha missão é transformar processos manuais em soluções eficientes e diretas onde minha principale aréa de atuação nesse momento é de desenvolvimento back end. 
+Prazer, sou **Ryan**, tenho 19 anos e sou um desenvolvedor apaixonado por tecnologia, automação e segurança digital. Minha missão é transformar processos manuais em soluções eficientes e diretas onde minha principal aréa de atuação nesse momento é de desenvolvimento back end. 
 ---
 
 ## 🌐 Redes Sociais:
@@ -32,7 +32,7 @@ Sou **Ryan**, tenho 19 anos e sou um desenvolvedor apaixonado por tecnologia, au
 
 ## 🛠️ Stacks:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,git,aws,sqlserver,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,git,aws,mongodb" />
 </p>
 
 ---
