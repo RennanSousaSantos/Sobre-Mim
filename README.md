@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1321567813839622256/1337193735254970470/Sem_Titulo-1.png?ex=67b11a36&is=67afc8b6&hm=20b981623b16d4ebe62fb83a2012c057744a16e3a98dee1acd726bf424033d2e&=&format=webp&quality=lossless" width="500">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F802696333568371571%2F&psig=AOvVaw0oM0q7xcRMch6wFWslt91Z&ust=1740744278122000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPi6v_Xn44sDFQAAAAAdAAAAABAE" width="500">
 </div>
 
 <h1 align="center">Ryan | Desenvolvedor Back End </h1>
@@ -42,18 +42,18 @@ Sou **Ryan**, tenho 19 anos e sou um desenvolvedor apaixonado por tecnologia, au
 ---
 
 ## 🌐 Redes Sociais:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ryankali.bsky.social) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/819954175173328906) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanrodriguexs) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ryangame2005) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ryan_osamu) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Ryangame2005)  
+[![Linkedin](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](https://www.linkedin.com/in/ryan-rodrigues-592a27313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/ryanrodriguexs) 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=black)](https://bsky.app/profile/ryankali.bsky.social) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](https://discord.gg/gibrasil) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=black)](https://pinterest.com/ryangame2005) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=black)](https://twitch.tv/ryan_osamu) 
 
 ---
 
 ## 🛠️ Stacks:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,html,css,git,aws,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,git,aws,sqlserver,mongodb" />
 </p>
 
 ---
