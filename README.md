@@ -34,11 +34,13 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
    
 <div align="center">
 ## Estatísticas Github:
-| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&theme=radical&bg_color=000000&hide_border=true&title_color=FF00F6&text_color=FFFFFF&icon_color=00FF7F) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=radical&bg_color=000000&hide_border=true&title_color=FF00F6&text_color=FFFFFF) |
-| ------------- | ------------- |
+<div align="center">
+    <!-- Estatísticas Gerais -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=0effa3&text_color=00d4ff&hide=contribs" height="165"/> 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=radical&background=000000&hide_border=true&stroke=FF00F6&ring=00FF7F&fire=FFFFFF)
-    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" height="165"/>
+</div>
+
  <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
