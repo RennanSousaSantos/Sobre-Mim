@@ -21,22 +21,17 @@ Prazer, sou **Ryan**, tenho 19 anos e sou um desenvolvedor apaixonado por tecnol
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=black)](mailto:yryurodriguess@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ryan-rodrigues-592a27313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
----
-
-## 🛠Stacks:
+## Tecnlogias que uso e estou aprendendo:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,git,bootstrap,aws,mysql," />
 </p>
 
----
 
-## Estatísticas:
+## Estatísticas Github:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0effa3&text_color=00d4ff" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=0d1117&stroke=00d4ff&ring=0effa3&fire=00d4ff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00FF7F&title_color=0effa3&text_color=00FF7F" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00FF7F&ring=0effa3&fire=00FF7F" />
 </div>
-
----
 
 🎯 **Se você compartilha interesses semelhantes, vamos trocar ideias!** 🚀  
 
