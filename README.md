@@ -3,7 +3,7 @@
 </div>
 
 <h1 style="font-size: 2.5em; color: #FF00F6; text-align: center;">Ryan Rodrigues </h1>
-<h2> **Automação** • **Segurança Digital** • **Bots** • **APIs** </h2>
+ **Automação** • **Segurança Digital** • **Bots** • **APIs**
 Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar processos.  
 
 💻 Desenvolvedor apaixonado por tecnologia, automação e segurança digital.  
