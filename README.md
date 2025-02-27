@@ -27,7 +27,7 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
 </p>
 
 ## Stacks:
-<p Tecnologias que utilizo ou estou aprendendo: </p>
+<p> Tecnologias que utilizo ou estou aprendendo: </p> 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,python,js,nodejs,react,html,css,git,github,bootstrap,aws,mysql" />
 </p>
