@@ -31,12 +31,13 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,python,js,nodejs,react,html,css,git,github,bootstrap,aws,mysql" />
 </p>
-
-## Estatísticas do GitHub:
+   
 <div align="center">
-    <!-- Estatísticas Gerais -->
-   | ![Ryanditko 's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryanditko&show_icons=true&theme=jolly&hide_border=false&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6) | ![Ryanditko 's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryanditko&layout=compact&theme=jolly&hide_border=false&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6) |
-| --- | --- |
+## Estatísticas Github:
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&theme=radical&bg_color=000000&hide_border=true&title_color=FF00F6&text_color=FFFFFF&icon_color=00FF7F) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=radical&bg_color=000000&hide_border=true&title_color=FF00F6&text_color=FFFFFF) |
+| ------------- | ------------- |
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=radical&background=000000&hide_border=true&stroke=FF00F6&ring=00FF7F&fire=FFFFFF)
     
  <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
 
