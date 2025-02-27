@@ -29,7 +29,7 @@ Prazer, sou **Ryan**, tenho 19 anos e sou um desenvolvedor apaixonado por tecnol
 
 ## Estatísticas Github:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00FF7F&title_color=0effa3&text_color=00FF7F" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=0effa3&text_color=00FF7F" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00FF7F&ring=0effa3&fire=00FF7F" />
 </div>
 
