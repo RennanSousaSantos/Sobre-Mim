@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw3EFuOiCLSeOtzRyr_lJwkx&ust=1740749981466000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjL0aP-44sDFQAAAAAdAAAAABAR" width="500" alt="Introdução">
+    <img src="https://imgur.com/a/yOmA2Yv" width="500" alt="Introdução">
 </div>
 
-<h1 align="center">Ryan Rodrigues </h1>
+<h1 align="center">Ryan Rodrigues | Back End </h1>
 
 <p align="center">
     <b>Automação • Segurança Digital • Bots • APIs</b><br>
@@ -13,14 +13,14 @@ Desenvolvedor apaixonado por tecnologia, automação e segurança digital.
 Estudante de programação, cursando análise e desenolvimento de sistemas na instituição IMPACTA TECNOLOGIA. 
 Minha missão é transformar processos manuais em soluções eficientes e diretas!
 
-[![Bluesky](https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=green)](https://bsky.app/profile/ryankali.bsky.social) 
-[![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=green)](https://instagram.com/ryanrodriguexs) 
-[![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=green)](https://discord.gg/gibrasil) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?logo=Pinterest&logoColor=green)](https://pinterest.com/ryangame2005) 
+[![Bluesky](https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=00FF7F)](https://bsky.app/profile/ryankali.bsky.social) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F)](https://instagram.com/ryanrodriguexs) 
+[![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?logo=Pinterest&logoColor=00FF7F)](https://pinterest.com/ryangame2005) 
 
 ## Contato:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=black)](mailto:yryurodriguess@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ryan-rodrigues-592a27313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+[![Email](https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F)](mailto:yryurodriguess@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=00FF7F)](https://www.linkedin.com/in/ryan-rodrigues-592a27313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
 ## Tecnlogias que utilizo e estou aprendendo:
 <p align="center">
