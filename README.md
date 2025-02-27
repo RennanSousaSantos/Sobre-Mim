@@ -26,7 +26,8 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
     </a>
 </p>
 
-## Tecnologias que utilizo e estou aprendendo:
+## Stacks:
+<p Tecnologias que utilizo ou estou aprendendo: </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,python,js,nodejs,react,html,css,git,github,bootstrap,aws,mysql" />
 </p>
@@ -36,10 +37,6 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
     <!-- Estatísticas Gerais -->
     <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=0effa3&text_color=FFFFFF&hide=contribs" height="165"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=00FF7F&text_color=FFFFFF" height="165"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=0d1117&stroke=00d4ff&ring=0effa3&fire=00d4ff" />
 </div>
 
 <p align="center">
