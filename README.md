@@ -10,13 +10,11 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **IMPACTA TECNOLOGIA**.  
 🚀 Transformando processos manuais em soluções eficientes e diretas!  
 
-Redes Sociais:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-rodrigues-592a27313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/ryanrodriguexs) 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=black)](https://bsky.app/profile/ryankali.bsky.social) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](https://discord.gg/gibrasil) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=black)](https://pinterest.com/ryangame2005) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=black)](https://twitch.tv/ryan_osamu) 
+[![Bluesky](https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=00FF7F)](https://bsky.app/profile/ryankali.bsky.social) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F)](https://instagram.com/ryanrodriguexs) 
+[![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?logo=Pinterest&logoColor=00FF7F)](https://pinterest.com/ryangame2005) 
+[![Twitch](https://img.shields.io/badge/Twitch-000000.svg?logo=Twitch&logoColor=00FF7F)](https://twitch.tv/ryan_osamu) 
 
 ## Contato:
 <p align="center">
