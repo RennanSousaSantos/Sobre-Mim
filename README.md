@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://imgur.com/undefined.png" width="500" alt="Kali_logo">
+    <img src="https://imgur.com/SZc0iiK.png" width="500" alt="Kali_logo">
 </div>
 
 # Ryan Rodrigues
@@ -39,7 +39,7 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=00FF7F&text_color=FFFFFF" height="165"/>
 </div>
 
- <img align="right" src="https://imgur.com/undefined.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
+ <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
