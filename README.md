@@ -37,18 +37,17 @@ Soluções inteligentes para otimizar fluxos, gerenciar dados e automatizar proc
             </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td>
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanditko&theme=github_dark" width="400px"/>
+            </td>
+            <td>
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryanditko&theme=github_dark" width="400px"/>
             </td>
         </tr>
     </table>
 </div>
 
-<p align="center">
-    <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong> 📗
-</p>
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Ryanditko&icon=0&color=0"/>
+    <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong> 📗
 </p>
