@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://imgur.com/a/yOmA2Yv" width="500" alt="Introdução">
+    <img src="https://imgur.com/swaitFI"width="500" alt="Introdução">
 </div>
 
 <h1 align="center">Ryan Rodrigues | Back End </h1>
