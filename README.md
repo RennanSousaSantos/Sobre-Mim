@@ -29,7 +29,7 @@ Desenvolvedor apaixonado por tecnologia, automação e segurança digital. Minha
 
 ## Estatísticas Github:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=0effa3&text_color=00FF7F" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=0effa3&text_color=C0C0C0" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00d4ff&ring=0effa3&fire=00d4ff" />
 </div>
 
