@@ -9,6 +9,8 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **IMPACTA TECNOLOGIA**.  
 🚀 Transformando processos manuais em soluções eficientes e diretas!  
 
+##Redes Sociais:
+
 [![Bluesky](https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=00FF7F)](https://bsky.app/profile/ryankali.bsky.social) 
 [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F)](https://instagram.com/ryanrodriguexs) 
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil) 
