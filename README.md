@@ -40,7 +40,8 @@ Tecnologias que utilizo ou estou aprendendo:
 </p>
 
 ## Estatísticas do GitHub:
-<div align="static">
+
+<div align="center">
   <table style="border-collapse: collapse; width: 50%;">
     <tr>
       <td style="padding: 0; border: none;">
@@ -51,9 +52,16 @@ Tecnologias que utilizo ou estou aprendendo:
       </td>
     </tr>
   </table>
+
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=FFFFFF" height="165"/>
+
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+
+  <!-- Gráfico de Contribuições -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=react-dark&bg_color=000000&color=00FF7F&line=0effa3&point=ffffff&area=true&hide_border=true"/>
 </div>
-
-
 
  <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
 
