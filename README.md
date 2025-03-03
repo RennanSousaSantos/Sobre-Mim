@@ -35,8 +35,14 @@ Tecnologias que utilizo ou estou aprendendo:
     <tr>
       <td>
         <div align="center">
-<p align="static">
-    <img src="https://skillicons.dev/icons?i=notion,vscode,kali,linux,python,ai,js,nodejs,react,html,css,git,github,bootstrap,aws,mysql" />
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=notion,vscode,git,github,kali,linux" />
+</p>
+            <p align="center">
+    <img src="https://skillicons.dev/icons?i=python, docker,js,nodejs,react,html,css,bootstrap,aws,mysql" />
+</p>
+            <p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,mysql" />
 </p>
         </div>
       </td>
