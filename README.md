@@ -40,9 +40,9 @@ Tecnologias que utilizo ou estou aprendendo:
 </p>
        
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub:
 
-<div align="center">
+<div align="static">
   <table style="border-collapse: collapse; width: 50%;">
     <tr>
       <td style="padding: 0; border: none;">
