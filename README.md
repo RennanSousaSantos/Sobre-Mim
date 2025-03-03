@@ -34,9 +34,6 @@ Tecnologias que utilizo ou estou aprendendo:
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
-      </td>
-      <td>
         <div align="center">
           <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
           <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
