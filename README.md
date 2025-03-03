@@ -39,7 +39,7 @@ Tecnologias que utilizo ou estou aprendendo:
     <img src="https://skillicons.dev/icons?i=notion,vscode,git,github,kali,linux" />
 </p>
 <p align="static">
-    <img src="https://skillicons.dev/icons?i=python,docker,js,nodejs,react,html,css,bootstrap,aws,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,python,docker,js,nodejs,react,html,css,bootstrap,aws,mysql" />
 </p>
         </div>
       </td>
