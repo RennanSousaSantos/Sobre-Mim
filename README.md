@@ -30,7 +30,7 @@
 ## Stacks:
 <p> Tecnologias que utilizo ou estou aprendendo: </p> 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=notion,vscode,kali,linux,python,aí,js,nodejs,react,html,css,git,github,bootstrap,aws,mysql" />
+    <img src="https://skillicons.dev/icons?i=notion,vscode,kali,linux,python,ai,js,nodejs,react,html,css,git,github,bootstrap,aws,mysql" />
 </p>
    
 <div align="status">
