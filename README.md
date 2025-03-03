@@ -63,7 +63,6 @@ Tecnologias que utilizo ou estou aprendendo:
   <!-- Gráfico de Contribuições -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=react-dark&bg_color=000000&color=00FF7F&line=0effa3&point=ffffff&area=true&hide_border=true"/>
 </div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryanditko&theme=github_dark&utcOffset=3" />
 
 
  <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
