@@ -49,12 +49,11 @@ Tecnologias que utilizo ou estou aprendendo:
       </td>
       <td style="padding: 0; border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
+           <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=FFFFFF" height="165"/>
       </td>
     </tr>
   </table>
-
-  <!-- Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=FFFFFF" height="165"/>
 
   <!-- Troféus -->
   <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
