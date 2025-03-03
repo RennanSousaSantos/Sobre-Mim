@@ -44,13 +44,13 @@ Tecnologias que utilizo ou estou aprendendo:
   <table style="border-collapse: collapse; width: 50%;">
     <tr>
       <td style="padding: 0; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF&hide=contribs" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
       </td>
 <div align="center">
   <table style="border-collapse: collapse; width: 50%;">
     <tr>
       <td style="padding: 0; border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
+         <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF&hide=contribs" height="165"/>
            <!-- Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=FFFFFF" height="165"/>
       </td>
