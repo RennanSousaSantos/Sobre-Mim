@@ -62,11 +62,6 @@ Tecnologias que utilizo ou estou aprendendo:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
 </div>
-
-        </div>
-      </td>
-    </tr>
-  </table>
 </div>
 
  <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
