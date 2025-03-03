@@ -34,14 +34,14 @@ Tecnologias que utilizo ou estou aprendendo:
   <table>
     <tr>
       <td>
-        <div align="center">
+        <div align="static">
 <p align="center">
     <img src="https://skillicons.dev/icons?i=notion,vscode,git,github,kali,linux" />
 </p>
-            <p align="center">
-    <img src="https://skillicons.dev/icons?i=python, docker,js,nodejs,react,html,css,bootstrap,aws,mysql" />
+<p align="static">
+    <img src="https://skillicons.dev/icons?i=python,docker,js,nodejs,react,html,css,bootstrap,aws,mysql" />
 </p>
-            <p align="center">
+<p align="static">
     <img src="https://skillicons.dev/icons?i=aws,mysql" />
 </p>
         </div>
