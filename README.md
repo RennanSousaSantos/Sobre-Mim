@@ -38,10 +38,8 @@ Tecnologias que utilizo ou estou aprendendo:
 <p align="static">
     <img src="https://skillicons.dev/icons?i=java,python,docker,js,nodejs,react,html,css,bootstrap,aws,mysql" />
 </p>
-       
 
 ## Estatísticas do GitHub:
-
 <div align="static">
   <table style="border-collapse: collapse; width: 50%;">
     <tr>
