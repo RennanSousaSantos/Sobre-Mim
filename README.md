@@ -41,9 +41,6 @@ Tecnologias que utilizo ou estou aprendendo:
 <p align="static">
     <img src="https://skillicons.dev/icons?i=python,docker,js,nodejs,react,html,css,bootstrap,aws,mysql" />
 </p>
-<p align="static">
-    <img src="https://skillicons.dev/icons?i=aws,mysql" />
-</p>
         </div>
       </td>
     </tr>
