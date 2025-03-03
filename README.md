@@ -31,9 +31,6 @@
 Tecnologias que utilizo ou estou aprendendo:
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
         <div align="static">
 <p align="center">
     <img src="https://skillicons.dev/icons?i=notion,vscode,git,github,kali,linux" />
@@ -41,26 +38,23 @@ Tecnologias que utilizo ou estou aprendendo:
 <p align="static">
     <img src="https://skillicons.dev/icons?i=java,python,docker,js,nodejs,react,html,css,bootstrap,aws,mysql" />
 </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+       
 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse; width: 50%;">
     <tr>
-      <td>
+      <td style="padding: 0; border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF&hide=contribs" height="165"/>
       </td>
-      <td>
+      <td style="padding: 0; border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
  <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
