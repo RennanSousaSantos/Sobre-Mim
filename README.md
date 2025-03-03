@@ -46,6 +46,9 @@ Tecnologias que utilizo ou estou aprendendo:
       <td style="padding: 0; border: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
       </td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanditko&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryanditko&theme=github_dark" />
+
 <div align="center">
   <table style="border-collapse: collapse; width: 50%;">
     <tr>
