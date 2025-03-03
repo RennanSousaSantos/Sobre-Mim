@@ -49,11 +49,24 @@ Tecnologias que utilizo ou estou aprendendo:
 
 ## Estatísticas Github:
 
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="static">
+<p align="center">
 <div align="center">
     <!-- Estatísticas Gerais -->
     <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF&hide=contribs" height="165"/> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
+</div>
+
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
  <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
